@@ -485,7 +485,7 @@ public class ScoreAnalyzerForm extends javax.swing.JFrame {
         
         double javaScore = Double.parseDouble(txtJava.getText());
         double databaseScore = Double.parseDouble(txtDatabase.getText());
-        double networkingScore = Double.parseDouble(txtDatabase.getText());
+        double networkingScore = Double.parseDouble(txtNetworking.getText());
         double mathScore = Double.parseDouble(txtMath.getText());
         
         scores[0] = javaScore;
